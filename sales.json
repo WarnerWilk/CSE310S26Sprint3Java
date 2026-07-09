@@ -1,0 +1,67 @@
+[{"timestamp":"2026-07-09 17:09:07","items":[{"name":"Milk","quantity":2,"unitPrice":2.50,"lineTotal":5.00}],"subtotal":5.00,"tax":0.30,"grandTotal":5.30},
+{
+  "timestamp": "2026-07-09 17:10:03",
+  "items": [
+    {
+      "name": "Bread",
+      "quantity": 2,
+      "unitPrice": 1.25,
+      "lineTotal": 2.50
+    }
+  ],
+  "subtotal": 2.50,
+  "tax": 0.15,
+  "grandTotal": 2.65
+}
+,
+{
+  "timestamp": "2026-07-09 17:13:54",
+  "items": [
+    {
+      "name": "Apples",
+      "quantity": 1,
+      "unitPrice": 2.00,
+      "lineTotal": 2.00
+    }
+  ],
+  "subtotal": 2.00,
+  "tax": 0.12,
+  "grandTotal": 2.12
+}
+,
+{
+  "timestamp": "2026-07-09 17:15:55",
+  "items": [
+    {
+      "name": "Apples",
+      "quantity": 1,
+      "unitPrice": 2.00,
+      "lineTotal": 2.00
+    }
+  ],
+  "subtotal": 2.00,
+  "tax": 0.12,
+  "grandTotal": 2.12
+}
+,
+{
+  "timestamp": "2026-07-09 17:17:13",
+  "items": [
+    {
+      "name": "Apples",
+      "quantity": 5,
+      "unitPrice": 2.00,
+      "lineTotal": 10.00
+    },
+    {
+      "name": "Bananas",
+      "quantity": 3,
+      "unitPrice": 1.50,
+      "lineTotal": 4.50
+    }
+  ],
+  "subtotal": 14.50,
+  "tax": 0.87,
+  "grandTotal": 15.37
+}
+]
