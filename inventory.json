@@ -1,5 +1,7 @@
 {
   "passcode": "1963",
   "items": [
+    {"name":"Apples","quantity":24,"price":0.58},
+    {"name":"Bananas","quantity":29,"price":0.50}
   ]
 }
